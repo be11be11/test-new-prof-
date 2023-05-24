@@ -9,8 +9,8 @@ div.親2 {border:2px solid aqua; width: 100%; height: 700px; display: flex; flex
 	background-image: url("PNG megane_1.png"); background-size:100% 100%;
     background-repeat: no-repeat;
     }
-div.footer {border:2px solid orange; width: 72.5%; height: 210px; position: relative; }	
-img.footer 1 {border:2px solid aqua; width: 100%; height: 210px; display: block; margin-top: 0px; margin-left: 0px; }
+div.footer1 {border:2px solid orange; width: 72.5%; height: 210px; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%;
+    background-repeat: no-repeat; }	
 	
 div.親4 {width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0); position: relative; }  
 
@@ -36,8 +36,9 @@ div.親1 {border:2px solid pink; width: 100%; height: 500px; background-image: u
 div.親2 {border:2px solid aqua; width: 100%; height: 970px; display: flex; flex-flow: column; text-align: center; 
 	background-image: url("profile main megane 1.jpeg"); background-size:100% 100%;
     background-repeat: no-repeat;}
-div.footer {border:2px solid orange; width: 70%; height: 300px; position: relative; }	 
-img.footer 1 {border:2px solid aqua; width: 100%; height: 300px; display: block; margin-top: 0px; margin-left: 0px;}
+div.footer1 {border:2px solid orange; width: 70%; height: 300px; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%;
+    background-repeat: no-repeat; }	
+	 
 div.親4 {width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0); position: relative; }  
 
 div.text1 {width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0); margin: 0 auto; }
@@ -62,8 +63,9 @@ div.親1 {border:2px solid pink; width: 100%; height: 750px; background-image: u
 div.親2 {border:2px solid aqua; width: 100%; height: 780px; display: flex; flex-flow: column; text-align: center; 
 	background-image: url("profile main megane 1.jpeg"); background-size: 100% 100%;
     background-repeat: no-repeat;}
-div.footer {border:2px solid orange; width: 45%; height: 325px; position: relative; }	 
-img.footer 1 {border:2px solid aqua; width: 45%; height: 325px; display: block; margin-top: 0px; margin-left: 0px; }
+div.footer1 {border:2px solid orange; width: 45%; height: 325px; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%;
+    background-repeat: no-repeat; }	 
+
 div.親4 {width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0); position: relative; }  
 
 div.text1 {width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0); margin: 0 auto; }
