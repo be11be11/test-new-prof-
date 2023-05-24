@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+@media screen and (min-width:10px) and (max-width:500px){
+  
+div.祖 {border:2px solid lime; width: 100%; background-color: rgba(200, 0, 100, 0); display:flex; flex-flow: column; position: relative; }
+div.親1 {border:2px solid pink; width: 100%; height: 240px; background-image: url("profile header neko 1.jpg"); background-size:105% 100%;
+    background-repeat: no-repeat;}
+div.親2 {border:2px solid aqua; width: 100%; height: 700px; display: flex; flex-flow: column; text-align: center; 
+	background-image: url("PNG megane_1.png"); background-size:100% 100%;
+    background-repeat: no-repeat;
+    }
+div.footer {border:2px solid orange; width: 72.5%; height: 210px; position: relative; }	
+img.footer 1 {border:2px solid aqua; width: 100%; height: 210px; display: block; margin-top: 0px; margin-left: 0px; }
+	
+div.親4 {width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0); position: relative; }  
+
+div.text1 {width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0); margin: 0 auto; }
+
+div.子1 {border:2px solid lime; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
+div.子2 {border:2px solid blue; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
+div.テキスト {border:2px solid green; width: 45%; height: 25px; background-color: rgba(100, 0, 50, 0.2); position: absolute; margin-top: 15px; z-index: 2; } 
+  
+div.text2 {width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.1); margin-top: -20%; margin-left: 50%; }
+
+div.text3 {width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0); margin-top: -10%; margin-left: 50%; }
+
+div.text4 {width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
+  
+}
+
+
+ @media screen and (min-width:501px) and (max-width:1400px){
+   
+div.祖 {border:2px solid lime; width: 100%; background-color: rgba(200, 0, 100, 0); display:flex; flex-flow: column; position: relative; }
+div.親1 {border:2px solid pink; width: 100%; height: 500px; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
+div.親2 {border:2px solid aqua; width: 100%; height: 970px; display: flex; flex-flow: column; text-align: center; 
+	background-image: url("profile main megane 1.jpeg"); background-size:100% 100%;
+    background-repeat: no-repeat;}
+div.footer {border:2px solid orange; width: 70%; height: 300px; position: relative; }	 
+img.footer 1 {border:2px solid aqua; width: 100%; height: 300px; display: block; margin-top: 0px; margin-left: 0px;}
+div.親4 {width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0); position: relative; }  
+
+div.text1 {width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0); margin: 0 auto; }
+
+div.子1 {border:2px solid lime; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
+div.子2 {border:2px solid blue; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
+div.テキスト {border:2px solid green; width: 45%; height: 25px; background-color: rgba(100, 0, 50, 0.2); position: absolute; margin-top: 15px; z-index: 2; } 
+  
+div.text2 {width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.1); margin-top: -20%; margin-left: 50%; }
+
+div.text3 {width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0); margin-top: -10%; margin-left: 50%; }
+
+div.text4 {width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
+   
+}
+
+   
+ @media screen and (min-width:1400px) and (max-width:2000px){  
+   
+div.祖 {border:2px solid lime; width: 100%; background-color: rgba(200, 0, 100, 0); display:flex; flex-flow: column; position: relative; }
+div.親1 {border:2px solid pink; width: 100%; height: 750px; background-image: url("profile header neko 1.jpg"); background-size:100% 100%; background-repeat: no-repeat;}
+div.親2 {border:2px solid aqua; width: 100%; height: 780px; display: flex; flex-flow: column; text-align: center; 
+	background-image: url("profile main megane 1.jpeg"); background-size: 100% 100%;
+    background-repeat: no-repeat;}
+div.footer {border:2px solid orange; width: 45%; height: 325px; position: relative; }	 
+img.footer 1 {border:2px solid aqua; width: 45%; height: 325px; display: block; margin-top: 0px; margin-left: 0px; }
+div.親4 {width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0); position: relative; }  
+
+div.text1 {width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0); margin: 0 auto; }
+
+div.子1 {border:2px solid lime; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
+div.子2 {border:2px solid blue; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
+div.テキスト {border:2px solid green; width: 45%; height: 25px; background-color: rgba(100, 0, 50, 0.2); position: absolute; margin-top: 15px; z-index: 2; } 
+  
+div.text2 {width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.1); margin-top: -20%; margin-left: 50%; }
+
+div.text3 {width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0); margin-top: -10%; margin-left: 50%; }
+
+div.text4 {width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
+   
+}
